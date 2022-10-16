@@ -2,3 +2,4 @@ I'm learning to be a web developer
 This is fun!
 It is good practice for github
 The road is long
+I'm loving the journey
